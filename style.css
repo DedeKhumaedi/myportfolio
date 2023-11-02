@@ -1,0 +1,35 @@
+.navbar {
+  background-color: #4b1f0e;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: wheat;
+}
+
+#about {
+  background-color: #4b1f0e;
+  color: white;
+}
+
+#galeri {
+  background-color: wheat;
+}
+
+#contact {
+  background-color: #4b1f0e;
+  color: white;
+}
+
+.btn {
+  background-color: wheat;
+}
+
+.footer {
+  background-color: wheat;
+  color: black;
+}
+
+section {
+  padding-top: 5rem;
+}
